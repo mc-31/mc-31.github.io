@@ -86,7 +86,7 @@ input, select, textarea {
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
+		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
@@ -136,7 +136,7 @@ input, select, textarea {
 		}
 
 			h2.alt strong {
-				color: #666;
+				color: black;
 			}
 
 	h3 {
