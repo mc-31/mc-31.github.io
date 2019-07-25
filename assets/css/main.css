@@ -217,7 +217,6 @@ input, select, textarea {
 		margin: 0 auto;
 		max-width: 100%;
 		width: 1400px;
-		text-align: justify;
 	}
 
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
