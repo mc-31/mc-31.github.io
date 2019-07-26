@@ -1,2 +1,2 @@
-baseurl: "OHBM/" 
-url: "https://mc-31.github.io"
+theme: jekyll-theme-cayman
+title: "OHBM 2018 Time Varying FC Course"
