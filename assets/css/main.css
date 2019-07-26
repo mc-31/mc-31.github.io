@@ -156,7 +156,7 @@ input, select, textarea {
 	}
 
 	strong, b {
-		font-weight: 300;
+		font-weight: 350;
 		color: #666;
 	}
 
@@ -2631,4 +2631,16 @@ input, select, textarea {
 					margin-top: 0;
 				}
 
+	}
+
+/* Publications */
+
+
+	#publications li {
+  		list-style-type: none;
+	}
+
+	.publi_data {
+		margin: 0 auto;
+		font-size: medium;
 	}
