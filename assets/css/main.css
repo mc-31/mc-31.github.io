@@ -2092,7 +2092,7 @@ input, select, textarea {
 			}
 
 				#header .icons a:hover {
-					color: black;
+					color: black; 
 				}
 
 	#logo {
@@ -2305,7 +2305,7 @@ input, select, textarea {
 			}
 
 			#main section.cover {
-				padding: 5em 0;
+				padding: 3em 0;
 			}
 
 	}
