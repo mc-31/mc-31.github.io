@@ -2047,7 +2047,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #c1e1ec url("images/overlay.png");
+		background: #222729 url("images/overlay.png");
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
 		color: #fff;
 		height: 100%;
@@ -2104,7 +2104,7 @@ input, select, textarea {
 
 		#logo h1 {
 			position: relative;
-			/*color: black;*/
+			color: white;
 			font-weight: 600;
 			font-size: 1em;
 			line-height: 1em;
