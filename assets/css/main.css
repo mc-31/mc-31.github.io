@@ -2166,7 +2166,7 @@ input, select, textarea {
 				#nav ul li a.active {
 					background: rgba(0, 0, 0, 0.15);
 					box-shadow: inset 0 0 0.25em 0 rgba(0, 0, 0, 0.125);
-					color: black;
+					/*color: black;*/
 				}
 
 					#nav ul li a.active span:before {
@@ -2249,7 +2249,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/banner3.png");
 			}
 
 			#main > section.two {
