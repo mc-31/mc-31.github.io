@@ -2104,7 +2104,7 @@ input, select, textarea {
 
 		#logo h1 {
 			position: relative;
-			color: black;
+			/*color: black;*/
 			font-weight: 600;
 			font-size: 1em;
 			line-height: 1em;
@@ -2138,7 +2138,7 @@ input, select, textarea {
 			#nav ul li a {
 				display: block;
 				padding: 0.5em 1.5em 0.5em 1.5em;
-				color: rgba(255, 255, 255, 0.5);
+				color: white;
 				text-decoration: none;
 				outline: 0;
 				border: 0;
@@ -2249,7 +2249,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner3.png");
+				background-image: url("../../images/banner.jpg");
 			}
 
 			#main > section.two {
